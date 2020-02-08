@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'LibSerial26',
   packages = ['LibSerial26'],
-  version = '0.2',
+  version = '0.3',
   license='MIT',
   description = 'Biblioteca LibSerial26',
   author = 'Henrique Reno Sawada',
   author_email = 'renohh@gmail.com',
   url = 'https://github.com/renoh/LibSerial26',
-  download_url = 'https://github.com/renoh/LibSerial26/archive/0.2.tar.gz',
+  download_url = 'https://github.com/renoh/LibSerial26/archive/0.3.tar.gz',
   keywords = ['Serial', 'SENAI', 'COMPort'],
   install_requires=[
           'datetime',
