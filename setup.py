@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'LibSerial26',
   packages = ['LibSerial26'],
-  version = '0.1',
+  version = '0.2',
   license='MIT',
   description = 'Biblioteca LibSerial26',
   author = 'Henrique Reno Sawada',
@@ -16,7 +16,7 @@ setup(
       ],
   classifiers=[
     #"3 - Alpha", "4 - Beta" or "5 - Production/Stable"
-    'Development Status :: 3 - Alpha',
+    'Development Status :: 5 - Production/Stable',
     'Intended Audience :: Developers',
     'Topic :: Software Development :: Build Tools',
     'License :: OSI Approved :: MIT License',
