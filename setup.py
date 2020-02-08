@@ -8,7 +8,7 @@ setup(
   author = 'Henrique Reno Sawada',
   author_email = 'renohh@gmail.com',
   url = 'https://github.com/renoh/LibSerial26',
-  download_url = 'https://github.com/renoh/LibSerial26/archive/0.1.tar.gz',
+  download_url = 'https://github.com/renoh/LibSerial26/archive/0.2.tar.gz',
   keywords = ['Serial', 'SENAI', 'COMPort'],
   install_requires=[
           'datetime',
